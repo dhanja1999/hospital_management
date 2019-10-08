@@ -1,0 +1,12 @@
+D:\project\hospital_management\bin\Debug\hospital_management.exe.config
+D:\project\hospital_management\bin\Debug\hospital_management.exe
+D:\project\hospital_management\bin\Debug\hospital_management.pdb
+D:\project\hospital_management\obj\Debug\hospital_management.afterdoctorlogin.resources
+D:\project\hospital_management\obj\Debug\hospital_management.doctorloggedin.resources
+D:\project\hospital_management\obj\Debug\hospital_management.Form1.resources
+D:\project\hospital_management\obj\Debug\hospital_management.Form2.resources
+D:\project\hospital_management\obj\Debug\hospital_management.Properties.Resources.resources
+D:\project\hospital_management\obj\Debug\hospital_management.csproj.GenerateResource.cache
+D:\project\hospital_management\obj\Debug\hospital_management.csproj.CoreCompileInputs.cache
+D:\project\hospital_management\obj\Debug\hospital_management.exe
+D:\project\hospital_management\obj\Debug\hospital_management.pdb
